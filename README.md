@@ -1,16 +1,44 @@
-### Hi there 👋
+<!-- ### About Me -->
 
-<!--
-**Ramil3107/Ramil3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  💻 Skills 
+![JS](https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css3) 
+![GIT](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git)
+![ReactNative](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&logo=react)  
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
+![TS](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase)
+![MUI](https://img.shields.io/badge/-Material_UI-000000?style=for-the-badge&logo=mui)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=redux)
+![ReactHookForm](https://img.shields.io/badge/-React_Hook_Form-000000?style=for-the-badge&logo=reacthookform)
+![Axios](https://img.shields.io/badge/-Axios-000000?style=for-the-badge&logo=axios)
 
-Here are some ideas to get you started:
+### 🔭 Last projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pet-projects: 
+  - [My Pet Project](https://github.com/Ramil3107/my-pet-project) (React JS) [deploy](ramil3107.github.io/my-pet-project/)
+  - [React social Network](https://github.com/Ramil3107/React-social-network) (React JS) [deploy](ramil3107.github.io/React-social-network/)
+  - [Dictionary](https://github.com/Ramil3107/dictionary) (React JS) [deploy](ramil3107.github.io/dictionary)
+  - [Recipes](https://github.com/Ramil3107/recipes-react-native) (React Native) 
+  - [Cat News](https://github.com/Ramil3107/CatNews-React-Native-) (React Native) 
+
+- Mini Projects (Vanilla JS):  
+  - [Password Generator](https://github.com/Ramil3107/password-generator), [deploy](ramil3107.github.io/password-generator/)
+  - [FAQ Collapse](https://github.com/Ramil3107/faq-collapse), [deploy](ramil3107.github.io/faq-collapse/)
+  - [Drawing App](https://github.com/Ramil3107/drawing-app), [deploy](ramil3107.github.io/drawing-app/)
+  - [Drink Water](https://github.com/Ramil3107/drink-water), [deploy](ramil3107.github.io/drink-water/)
+  - [Hoverboard](https://github.com/Ramil3107/hoverboard), [deploy](ramil3107.github.io/hoverboard/)
+  - [Clock](https://github.com/Ramil3107/clock), [deploy](ramil3107.github.io/clock/)
+  - [Hiden Search](https://github.com/Ramil3107/hidden-search), [deploy](ramil3107.github.io/hidden-search/)
+  - [Good, Cheap & Fast](https://github.com/Ramil3107/good-cheap-fast), [deploy](ramil3107.github.io/good-cheap-fast/)
+  
+ 
+### 😉 Follow me   
+- [LinkedIn](https://www.linkedin.com/in/ramil-abbasov/)  
+- [Instagram](https://www.instagram.com/blinchik_s_povidlom/)
+
+- Email: abbasov.ram3107@gmail.com
+
+
+### 📫 How to reach me: [@Ramil_Abbasov](https://t.me/Ramil_Abbasov) (Telegram)
