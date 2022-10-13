@@ -17,21 +17,21 @@
 ### 🔭 Last projects 
 
 - Pet-projects: 
-  - [My Pet Project](https://github.com/Ramil3107/my-pet-project) (React JS) [deploy](ramil3107.github.io/my-pet-project/)
-  - [React social Network](https://github.com/Ramil3107/React-social-network) (React JS) [deploy](ramil3107.github.io/React-social-network/)
-  - [Dictionary](https://github.com/Ramil3107/dictionary) (React JS) [deploy](ramil3107.github.io/dictionary)
+  - [My Pet Project](https://github.com/Ramil3107/my-pet-project) (React JS) [deploy](https://ramil3107.github.io/my-pet-project/)
+  - [React social Network](https://github.com/Ramil3107/React-social-network) (React JS) [deploy](https://ramil3107.github.io/React-social-network/)
+  - [Dictionary](https://github.com/Ramil3107/dictionary) (React JS) [deploy](https://ramil3107.github.io/dictionary)
   - [Recipes](https://github.com/Ramil3107/recipes-react-native) (React Native) 
   - [Cat News](https://github.com/Ramil3107/CatNews-React-Native-) (React Native) 
 
 - Mini Projects (Vanilla JS):  
-  - [Password Generator](https://github.com/Ramil3107/password-generator), [deploy](ramil3107.github.io/password-generator/)
-  - [FAQ Collapse](https://github.com/Ramil3107/faq-collapse), [deploy](ramil3107.github.io/faq-collapse/)
-  - [Drawing App](https://github.com/Ramil3107/drawing-app), [deploy](ramil3107.github.io/drawing-app/)
-  - [Drink Water](https://github.com/Ramil3107/drink-water), [deploy](ramil3107.github.io/drink-water/)
-  - [Hoverboard](https://github.com/Ramil3107/hoverboard), [deploy](ramil3107.github.io/hoverboard/)
-  - [Clock](https://github.com/Ramil3107/clock), [deploy](ramil3107.github.io/clock/)
-  - [Hiden Search](https://github.com/Ramil3107/hidden-search), [deploy](ramil3107.github.io/hidden-search/)
-  - [Good, Cheap & Fast](https://github.com/Ramil3107/good-cheap-fast), [deploy](ramil3107.github.io/good-cheap-fast/)
+  - [Password Generator](https://github.com/Ramil3107/password-generator), [deploy](https://ramil3107.github.io/password-generator/)
+  - [FAQ Collapse](https://github.com/Ramil3107/faq-collapse), [deploy](https://ramil3107.github.io/faq-collapse/)
+  - [Drawing App](https://github.com/Ramil3107/drawing-app), [deploy](https://ramil3107.github.io/drawing-app/)
+  - [Drink Water](https://github.com/Ramil3107/drink-water), [deploy](https://ramil3107.github.io/drink-water/)
+  - [Hoverboard](https://github.com/Ramil3107/hoverboard), [deploy](https://ramil3107.github.io/hoverboard/)
+  - [Clock](https://github.com/Ramil3107/clock), [deploy](https://ramil3107.github.io/clock/)
+  - [Hiden Search](https://github.com/Ramil3107/hidden-search), [deploy](https://ramil3107.github.io/hidden-search/)
+  - [Good, Cheap & Fast](https://github.com/Ramil3107/good-cheap-fast), [deploy](https://ramil3107.github.io/good-cheap-fast/)
   
  
 ### 😉 Follow me   
