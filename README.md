@@ -24,7 +24,7 @@
   - [Cat News](https://github.com/Ramil3107/CatNews-React-Native-) (React Native) 
 
 - Mini Projects (Vanilla JS):
-  - [Colored](https://github.com/Ramil3107/colored), [deploy](ramil3107.github.io/colored)  
+  - [Colored](https://github.com/Ramil3107/colored), [deploy](https://ramil3107.github.io/colored)  
   - [Password Generator](https://github.com/Ramil3107/password-generator), [deploy](https://ramil3107.github.io/password-generator/)
   - [FAQ Collapse](https://github.com/Ramil3107/faq-collapse), [deploy](https://ramil3107.github.io/faq-collapse/)
   - [Drawing App](https://github.com/Ramil3107/drawing-app), [deploy](https://ramil3107.github.io/drawing-app/)
