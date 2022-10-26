@@ -14,7 +14,7 @@
 ![ReactHookForm](https://img.shields.io/badge/-React_Hook_Form-000000?style=for-the-badge&logo=reacthookform)
 ![Axios](https://img.shields.io/badge/-Axios-000000?style=for-the-badge&logo=axios)
 
-### 🔭 Last projects 
+### 🔭 Last projects
 
 - Pet-projects: 
   - [My Pet Project](https://github.com/Ramil3107/my-pet-project) (React JS) [deploy](https://ramil3107.github.io/my-pet-project/)
@@ -23,7 +23,8 @@
   - [Recipes](https://github.com/Ramil3107/recipes-react-native) (React Native) 
   - [Cat News](https://github.com/Ramil3107/CatNews-React-Native-) (React Native) 
 
-- Mini Projects (Vanilla JS):  
+- Mini Projects (Vanilla JS):
+  - [Colored](https://github.com/Ramil3107/colored), [deploy](ramil3107.github.io/colored)  
   - [Password Generator](https://github.com/Ramil3107/password-generator), [deploy](https://ramil3107.github.io/password-generator/)
   - [FAQ Collapse](https://github.com/Ramil3107/faq-collapse), [deploy](https://ramil3107.github.io/faq-collapse/)
   - [Drawing App](https://github.com/Ramil3107/drawing-app), [deploy](https://ramil3107.github.io/drawing-app/)
