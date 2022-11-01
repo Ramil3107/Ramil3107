@@ -18,9 +18,10 @@
 
 - Pet-projects: 
   - [My Pet Project](https://github.com/Ramil3107/my-pet-project) (React JS) [deploy](https://ramil3107.github.io/my-pet-project/)
+  - [Recipes](https://github.com/Ramil3107/recipes-react-native) (React Native) 
+  - [Chat Socket IO](https://github.com/Ramil3107/chatSocketIO) (React Native)
   - [React social Network](https://github.com/Ramil3107/React-social-network) (React JS) [deploy](https://ramil3107.github.io/React-social-network/)
   - [Dictionary](https://github.com/Ramil3107/dictionary) (React JS) [deploy](https://ramil3107.github.io/dictionary)
-  - [Recipes](https://github.com/Ramil3107/recipes-react-native) (React Native) 
   - [Cat News](https://github.com/Ramil3107/CatNews-React-Native-) (React Native) 
 
 - Mini Projects (Vanilla JS):
