@@ -19,6 +19,7 @@
 ### 🔭 Last projects
 
 - Pet-projects: 
+  - [Jokes](https://github.com/Ramil3107/jokes) (React Native)
   - [My Pet Project](https://github.com/Ramil3107/my-pet-project) (React JS) [deploy](https://ramil3107.github.io/my-pet-project/)
   - [Recipes](https://github.com/Ramil3107/recipes-react-native) (React Native) 
   - [Chat Socket IO](https://github.com/Ramil3107/chatSocketIO) (React Native)
